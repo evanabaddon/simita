@@ -1,0 +1,49 @@
+SIMITA (SIstem Managemen IT Aset)
+=================================
+Created Date 	 : 04 April 2017
+Programer 	 : Ahmad Sopian (sopian.ahmad@suzuki-mobil.co.id)
+Update Date	 : 31 Desember 2017
+Apps Base    	 : PHP with CodeIgniter & MySQL Database
+Code Name	 : Yaruki_CI
+
+Kebutuhan System :
+- PHP 5.4
+- MySQL
+
+
+
+	|=============|
+	| LOG VERSION | 
+	|=============|
+
+Version 1.0 (April 2017)
+------------------------
+-. Pembuatan Aplikasi
+
+Version 2.2 Build 122018
+------------------------
+-. Penambahan Menu Master
+-. Penambahan Master Cabang
+-. Penambahan Field cabang pada transaksi keluar
+-. Penambahan Print nama cabang pada transaksi keluar
+-. Penambahan Menu master Provider Internet
+-. Perbaikan Coding lebih simple
+-. Penambahan dan perbaikan tampilan status tiket
+
+Version 2.3 Build 012018
+------------------------
+- Mobile Phone Ready (Responsive Design)
+- Penambahan Master Manufacture (Merk & Tipe)
+- Penambahan Field Nomor INventaris HRD (Laptop)
+- Penambahan tombol Export pada master Cabang
+- Penambahan Fungsi terbilang di Maintenance
+- Perbaikan hasil print maintenance
+- Penambahan Terbilang di Maintenance
+- Penambahan Field Email pada Master Provider
+- Penambahan Info Cabang di Detail Komputer & Laptop
+- FITUR BARU - Inventory Koneksi Internet Cabang
+- Penambahan Export to Excel Seluruh Data (Laptop, PC,Printer dan Koneksi Internet)
+----> Transaksi
+	- (Laptop) Penambahan Field No.Aset HRD saat Print History Perbaikan
+	  	   dan Inventory Mutasi Barang
+	- Penambahan Field Tanggal Masa Berlaku Garansi (Laptop,PC & Printer)
