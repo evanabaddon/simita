@@ -2,7 +2,7 @@ SIMITA (SIstem Managemen IT Aset)
 =================================
 Created Date 	 : 04 April 2017
 Programer 	 : Ahmad Sopian (sopian.ahmad@suzuki-mobil.co.id)
-Update Date	 : 31 Desember 2017
+Update Date	 : 15 Januari 2018
 Apps Base    	 : PHP with CodeIgniter & MySQL Database
 Code Name	 : Yaruki_CI
 
