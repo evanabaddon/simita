@@ -53,5 +53,10 @@ DEMO APLIKASI
 
 Demo : http://demo.asra.tech/simita
 Login
-Username : root
-Password : P@ssw0rd
+- Username : root
+- Password : P@ssw0rd
+
+**************************
+DONASI & PERTANYAAN
+**************************
+WhatsApp : 0812 1909 3977
